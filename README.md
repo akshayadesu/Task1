@@ -1,3 +1,7 @@
+# Next.js Authentication App with ShadCN UI
+
+This project is a simple Next.js application that implements basic authentication and a protected page using ShadCN UI. It serves as a demonstration of handling authentication in a React context and utilizing modern UI components.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
